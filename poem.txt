@@ -1,8 +1,9 @@
-Cats are cats
+Cats are cats & dogs are dogs
 Lions are big cats
 Tigers are striped cats
+Some dogs are doggos
+And dogoos are floofers
 Cats hunt mice
 and mice hunt cheese
-
-But all cats are cats
+But all cats are cats and all dogs are dogs
 and all mice are mice
