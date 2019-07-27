@@ -1,0 +1,5 @@
+Cats are cats
+Lions are big cats
+Tigers are striped cats
+
+But all cats are cats
