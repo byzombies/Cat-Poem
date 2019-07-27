@@ -1,5 +1,8 @@
 Cats are cats
 Lions are big cats
 Tigers are striped cats
+Cats hunt mice
+and mice hunt cheese
 
 But all cats are cats
+and all mice are mice
