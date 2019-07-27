@@ -1,5 +1,7 @@
-Cats are cats
+Cats are cats & dogs are dogs
 Lions are big cats
 Tigers are striped cats
+Some dogs are doggos
+And dogoos are floofers
 
-But all cats are cats
+But all cats are cats and all dogs are dogs
